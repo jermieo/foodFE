@@ -85,7 +85,7 @@ const Header = () => {
                   <Link to={""} className="px-2 py-1">
                     Home
                   </Link>
-                  <Link to={"menu"} className="px-2 py-1">
+                  {/* <Link to={"menu"} className="px-2 py-1">
                     Menu
                   </Link>
                   <Link to={"about"} className="px-2 py-1">
@@ -93,7 +93,7 @@ const Header = () => {
                   </Link>
                   <Link to={"contact"} className="px-2 py-1">
                     Contact
-                  </Link>
+                  </Link> */}
                 </nav>
               </div>
             )}
